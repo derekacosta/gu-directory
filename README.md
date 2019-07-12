@@ -5,7 +5,7 @@ Python module to search the [Georgetown University Directory](https://contact.ge
 ## Installation
 
 ```bash
-pip install git+https://github.com/justicesuh/gu-directory
+pip install git+https://github.com/derekacosta/gu-directory
 ```
 
 ## Usage
